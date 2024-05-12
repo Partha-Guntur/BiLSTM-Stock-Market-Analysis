@@ -25,8 +25,8 @@ The BiLSTM model uses historical stock price data, including open, high, low, an
 
 - **Data Processing and Model Training**: Python, Pandas, NumPy, TensorFlow/Keras
 - **Backend API**: Flask
-- **Frontend**: React, Chart.js
-- **Deployment**: AWS EC2 (for the backend), AWS Amplify (for the frontend)
+- **Frontend**: React
+
 
 ## Setup and Installation
 
