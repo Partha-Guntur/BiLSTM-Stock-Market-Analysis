@@ -1,6 +1,6 @@
 # Indian Market Index Prediction using BiLSTM
 
-This project aims to predict the movement of Indian stock market indexes for a 5 year Market only on Nift50 Stock Index, using a Bidirectional Long Short-Term Memory (BiLSTM) model. The predictions are displayed on a simple and interactive React website, allowing users to view forecasts in real time.
+This project aims to predict the movement of Indian stock market indexes for a 5 year Market only on Nifty50 Stock Index, using a Bidirectional Long Short-Term Memory (BiLSTM) model. The predictions are displayed on a simple and interactive React website, allowing users to view forecasts in real time.
 
 ## Project Overview
 
