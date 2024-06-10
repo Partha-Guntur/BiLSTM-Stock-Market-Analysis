@@ -30,6 +30,7 @@
   .grid-item {
     flex: 1;
     max-width: 45%;
+    transition: transform .2s;
   }
   
   img {
@@ -46,3 +47,8 @@
     font-size: medium;
   }
   
+  .grid-item:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(1.5); /* Safari 3-8 */
+    transform: scale(1.5); 
+  }
