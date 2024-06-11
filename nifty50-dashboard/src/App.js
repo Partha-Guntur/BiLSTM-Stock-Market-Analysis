@@ -1,10 +1,12 @@
 import './App.css';
 
-function App() {
 
+function App() {
   return (
     <div>
-      <h2>Nifty50 Analysis</h2>
+      <nav class="navbar">
+        <h2>Nifty50 Analysis</h2>
+      </nav><br></br>
       <p>Following are the Representative graphs of previous 5 Year <strong>(from 2019-2024 currently)</strong> Analysis</p>
       <div className="grid-container">
         <div className="grid-item">
