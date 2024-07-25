@@ -19,24 +19,6 @@
     </style>
 </head>
 <body>
-    <h1>Prediction Results</h1>
-    <table>
-        <thead>
-            <tr>
-                <th>Sample</th>
-                <th>Features</th>
-                <th>Prediction</th>
-            </tr>
-        </thead>
-        <tbody>
-            {% for result in results %}
-            <tr>
-                <td>{{ loop.index }}</td>
-                <td>{{ result.features }}</td>
-                <td>{{ result.prediction }}</td>
-            </tr>
-            {% endfor %}
-        </tbody>
-    </table>
+
 </body>
 </html>
